@@ -8,7 +8,6 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-
     <EditText
         android:id="@+id/etOne"
         android:layout_width="300dp"
@@ -38,7 +37,6 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:gravity="center"
-        android:ems="10"
         android:inputType="number"
         android:textSize="30sp" />
 
